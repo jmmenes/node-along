@@ -10,7 +10,4 @@ function getInput() {
   return process.argv[2];
 }
 
-// const answer = getInput();
-// console.log(answer);
-
 module.exports = getInput;
